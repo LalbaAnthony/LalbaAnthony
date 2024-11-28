@@ -6,7 +6,7 @@
 
 I do stupid projects in my free time, and useful ones in the time I have left.
 
-Reach me at:
+Reach me on:
 - 📶 LinkedIn: [www.linkedin.com/in/anthony-lalba](https://www.linkedin.com/in/anthony-lalba-abb686230/)
 - 📧 Email: anthony.lalba@limayrac.fr
 
