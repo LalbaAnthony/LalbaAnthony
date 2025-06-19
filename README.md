@@ -27,7 +27,7 @@ Reach me on:
             alt="html5" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
             alt="css3" width="40" height="40" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
