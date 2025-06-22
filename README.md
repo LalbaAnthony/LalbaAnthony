@@ -11,7 +11,7 @@ Reach me on:
 - 📧 Email: anthony.lalba@limayrac.fr
 
 <h3 align="left">A bunch technos I build projects with :</h3>
-<p align="left" style="background-color: #25292E; padding: 10px; border-radius: 8px;">
+<p align="left">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" />
