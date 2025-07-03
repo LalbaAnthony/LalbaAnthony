@@ -3,8 +3,7 @@
 <h1 align="left">Hi, I'm Anthony</h1>
 <h3 align="left">Work-study IT student</h3>
 
-
-I do stupid projects in my free time, and useful ones in the time I have left.
+I build useless projects in my free time, and useful ones with whatever time I have left.
 
 Reach me on:
 - 📶 LinkedIn: [www.linkedin.com/in/anthony-lalba](https://www.linkedin.com/in/anthony-lalba-abb686230/)
