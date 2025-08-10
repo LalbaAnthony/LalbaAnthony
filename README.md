@@ -6,7 +6,7 @@
 I build useless projects in my free time, and useful ones with whatever time I have left.
 
 Reach me on:
-- 📶 LinkedIn: [www.linkedin.com/in/anthony-lalba](https://www.linkedin.com/in/anthony-lalba-abb686230/)
+- 📶 LinkedIn: [linkedin.com/in/anthony-lalba-abb686230](https://www.linkedin.com/in/anthony-lalba-abb686230/)
 - 📧 Email: anthony.lalba@limayrac.fr
 
 <h3 align="left">A bunch technos I build projects with :</h3>
