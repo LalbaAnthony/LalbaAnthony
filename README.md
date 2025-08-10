@@ -76,10 +76,6 @@ Reach me on:
         <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache httpd" width="40"
             height="40" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/WebSocket_colored_logo.svg" alt="websocket" width="40"
-            height="40" />
-    </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" />
