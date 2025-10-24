@@ -37,6 +37,10 @@ Reach me on:
         <img src="https://images.icon-icons.com/2107/PNG/512/file_type_quasar_icon_130213.png" alt="Quasar dev"
             width="40" height="40" />
     </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js"
+            width="40" height="40" />
+    </a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40"
             width="40" height="40" />
