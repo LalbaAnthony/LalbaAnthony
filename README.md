@@ -1,6 +1,6 @@
 <!-- https://www.youtube.com/watch?v=dQw4w9WgXcQ -->
 
-<h1 align="left">Hi, I'm Anthony</h1>
+<h1 align="left">Hi there</h1>
 <h3 align="left">Work-study IT student</h3>
 
 I build useless projects in my free time, and useful ones with whatever time I have left.
