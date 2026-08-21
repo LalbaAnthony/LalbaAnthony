@@ -17,10 +17,10 @@ Reach me on:
 <h3 align="left">A bunch technos I build projects with :</h3>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" />
 </a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg" alt="npm" width="50" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
@@ -29,64 +29,64 @@ Reach me on:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" />
 </a>
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="50" />
 </a>
 <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
-<img src="https://images.icon-icons.com/2107/PNG/512/file_type_quasar_icon_130213.png" alt="Quasar" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg" alt="Quasar" width="50" />
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" />
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" />
 </a>
 <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" />
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" />
 </a>
 <a href="https://www.ovhcloud.com/" target="_blank" rel="noreferrer">
 <img src="https://images.icon-icons.com/2407/PNG/512/ovh_icon_146131.png" alt="OVH" width="50" />
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" />
 </a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" />
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" />
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" />
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" />
 </a>
 <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="Apache" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="50" />
 </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" />
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" />
 </a>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="50" />
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" />
 </a>
 <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" />
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
@@ -106,6 +106,4 @@ Reach me on:
 
 - **Master's Expert in Web Development** @ Ynov - since 2024
 
-
-
-Autogenerated by https://anthonylalba.com.
+<br><br>Autogenerated by https://anthonylalba.com.
