@@ -10,7 +10,7 @@ I build useless projects in my free time, and useful ones with whatever time I h
 📍 Toulouse, France
 
 Reach me on:
-- 📧 Email: anthony.lalba@proton.me
+- ✉️ Email: [mailto:anthony.lalba@proton.me](mailto:anthony.lalba@proton.me)
 - 🐙 GitHub: [github.com/LalbaAnthony](https://github.com/LalbaAnthony/)
 - 📶 LinkedIn: [linkedin.com/in/anthony-lalba-abb686230](https://www.linkedin.com/in/anthony-lalba-abb686230/)
 
@@ -46,11 +46,17 @@ Reach me on:
 <a href="https://vite.dev/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" />
 </a>
+<a href="https://deno.land" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Deno" width="50" />
+</a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" />
 </a>
 <a href="https://www.ovhcloud.com/" target="_blank" rel="noreferrer">
 <img src="https://images.icon-icons.com/2407/PNG/512/ovh_icon_146131.png" alt="OVH" width="50" />
@@ -61,12 +67,25 @@ Reach me on:
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" />
 </a>
+<a href="https://gihub.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" />
+</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" />
+</a>
+<a href="https://developer.android.com/tools/adb" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Debug Bridge (ADB)" width="50" />
+</a>
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="50" />
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" />
 </a>
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="50" />
+</a>
+
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" />
 </a>
@@ -75,6 +94,9 @@ Reach me on:
 </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" />
+</a>
+<a href="https://getcomposer.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer" width="50" />
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" />
