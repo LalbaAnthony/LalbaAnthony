@@ -125,7 +125,7 @@ Reach me on:
 
 <h3 align="left">Where I currently work :</h3>
 
-- **Apprenticeship Full Stack Developer** @ Agoravita - since 2022
+- **Full Stack Developer** @ Agoravita - since 2022
 
 <h3 align="left">What I currently study :</h3>
 
