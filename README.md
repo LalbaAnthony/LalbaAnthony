@@ -11,8 +11,8 @@ I build useless projects in my free time, and useful ones with whatever time I h
 
 Reach me on:
 - ✉️ Email: [anthony.lalba@proton.me](mailto:anthony.lalba@proton.me)
-- 🐙 GitHub: [github.com/LalbaAnthony](https://github.com/LalbaAnthony/)
-- 📶 LinkedIn: [linkedin.com/in/anthony-lalba-abb686230](https://www.linkedin.com/in/anthony-lalba-abb686230/)
+- 🌐 Portfolio: [anthonylalba.com](https://anthonylalba.com)
+- 📶 LinkedIn: [linkedin.com/in/anthony-lalba](https://www.linkedin.com/in/anthony-lalba/)
 
 <h3 align="left">A bunch technos I build projects with :</h3>
 
@@ -70,7 +70,7 @@ Reach me on:
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" />
 </a>
-<a href="https://gihub.com/" target="_blank" rel="noreferrer">
+<a href="https://github.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" />
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
