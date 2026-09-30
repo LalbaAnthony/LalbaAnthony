@@ -64,8 +64,8 @@ Reach me on:
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" />
 </a>
-<a href="https://claude.ai/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/claude-logo.svg" alt="Claude" width="50" />
+<a href="https://claude.com/fr/product/claude-code" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/claude-logo.svg" alt="Claude Code" width="50" />
 </a>
 <a href="https://www.ovhcloud.com/" target="_blank" rel="noreferrer">
 <img src="https://images.icon-icons.com/2407/PNG/512/ovh_icon_146131.png" alt="OVH" width="50" />
