@@ -134,6 +134,12 @@ Reach me on:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" />
 </a>
 
+<h3 align="left">A few projects worth a look :</h3>
+
+- [borreze.fr website](https://borreze.fr/) - Showcase website for the commune of Borrèze. `Nuxt.js · TypeScript · TailwindCSS · Docker · PostgreSQL`
+- [Backbone PHP](https://github.com/LalbaAnthony/backbone-php) - A pure PHP framework without any dependencies. `PHP`
+- [FileZilla Companion](https://github.com/LalbaAnthony/filezilla-companion) - FileZilla Companion is a Python wrapper for FileZilla that provides additional features and functionalities. `Python`
+
 <h3 align="left">Where I currently work :</h3>
 
 - **Full Stack Developer** @ AgoraVita - since 2022
