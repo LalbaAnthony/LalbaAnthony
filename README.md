@@ -70,6 +70,9 @@ Reach me on:
 <a href="https://www.ovhcloud.com/" target="_blank" rel="noreferrer">
 <img src="https://images.icon-icons.com/2407/PNG/512/ovh_icon_146131.png" alt="OVH" width="50" />
 </a>
+<a href="https://www.brevo.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.brandfetch.io/idiSi980wS/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Brevo" width="50" />
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" />
 </a>
@@ -115,6 +118,9 @@ Reach me on:
 <a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg" alt="WooCommerce" width="50" />
 </a>
+<a href="https://swagger.io/specification/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="OpenAPI" width="50" />
+</a>
 <a href="https://www.uml.org/" target="_blank" rel="noreferrer">
 <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" alt="UML" width="50" />
 </a>
@@ -137,7 +143,7 @@ Reach me on:
 <h3 align="left">A few projects worth a look :</h3>
 
 - [borreze.fr website](https://borreze.fr/) - Showcase website for the commune of Borrèze. `Nuxt.js · TypeScript · TailwindCSS · Docker · PostgreSQL`
-- [Backbone PHP](https://github.com/LalbaAnthony/backbone-php) - A pure PHP framework without any dependencies. `PHP`
+- [Backbone PHP](https://github.com/LalbaAnthony/backbone-php) - A pure PHP framework without any dependencies. `PHP · Docker · MySQL`
 - [FileZilla Companion](https://github.com/LalbaAnthony/filezilla-companion) - FileZilla Companion is a Python wrapper for FileZilla that provides additional features and functionalities. `Python`
 
 <h3 align="left">Where I currently work :</h3>
