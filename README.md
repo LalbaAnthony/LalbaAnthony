@@ -139,10 +139,19 @@ Reach me on:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" />
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" />
+</a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="50" />
+</a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="50" />
+</a>
 
 <h3 align="left">A few projects worth a look :</h3>
 
-- [borreze.fr website](https://borreze.fr/) - Showcase website for the commune of Borrèze. `Nuxt.js · TypeScript · TailwindCSS · Docker · PostgreSQL`
+- [borreze.fr website](https://borreze.fr/) - Showcase website for the commune of Borrèze. `Nuxt.js · TypeScript · Tailwind CSS · Docker · PostgreSQL`
 - [Backbone PHP](https://github.com/LalbaAnthony/backbone-php) - A pure PHP framework without any dependencies. `PHP · Docker · MySQL`
 - [FileZilla Companion](https://github.com/LalbaAnthony/filezilla-companion) - FileZilla Companion is a Python wrapper for FileZilla that provides additional features and functionalities. `Python`
 
